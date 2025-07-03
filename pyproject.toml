@@ -9,7 +9,7 @@ description = "A simple calculator package for learning Python packaging"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "YC"},
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -37,9 +37,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/simple-calculator"
-Repository = "https://github.com/yourusername/simple-calculator"
-Issues = "https://github.com/yourusername/simple-calculator/issues"
+Homepage = "https://github.com/YC-1412/simple-calculator"
+Repository = "https://github.com/YC-1412/simple-calculator"
+Issues = "https://github.com/YC-1412/simple-calculator/issues"
 
 # CLI script removed - this is optional
 
